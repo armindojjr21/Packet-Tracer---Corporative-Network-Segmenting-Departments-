@@ -20,17 +20,17 @@ configure terminal
 
 # Criação das VLANs
 vlan 10
- name Engenharia
+ name Engeneering
 vlan 20
- name Financeiro
+ name Financial
 vlan 30
- name RH
+ name HR
 vlan 40
- name TI
+ name IT
 vlan 50
- name Visitantes
+ name Guests
 vlan 100
- name Servidores
+ name Servers
 exit
 
 # Atribuição de Portas de Acesso para os Departamentos
